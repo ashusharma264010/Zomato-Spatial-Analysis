@@ -1,2 +1,2 @@
 # Zomato Spatial Analysis
- Sapatial Analysis on Zomato data , By using heatmaps.
+ Geo Spatial Analysis on Zomato data , By using heatmaps.
